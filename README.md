@@ -1,9 +1,3 @@
- **File-Echo-UDP**
-
----
-
-### README File Description  
-
 # File Echo Application using UDP
 
 This project implements a file echo application using UDP for reliable file transmission between a client and a server. The client sends a file in packets, and the server echoes the packets back to the client. The client then reassembles the file from the echoed packets. This project demonstrates UDP communication, file splitting, error handling, and packet reordering.
